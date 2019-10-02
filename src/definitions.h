@@ -1,0 +1,8 @@
+#ifndef STRINGSUB_DEFINITIONS_H
+#define STRINGSUB_DEFINITIONS_H
+
+#define BLOCK_SIZE 4096
+
+class Database;
+
+#endif //STRINGSUB_DEFINITIONS_H
